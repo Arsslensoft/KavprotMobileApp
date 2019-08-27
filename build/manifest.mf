@@ -1,0 +1,10 @@
+MIDlet-2: Kavprot,/shield.png,kavprot.HelloMIDlet
+MIDlet-1: Kavprot,,kavprot.HelloMIDlet
+MIDlet-Vendor: Arsslensoft
+MIDlet-Info-URL: http://www.arsslensoft.tk/AVL/
+MIDlet-Name: Kavprot
+MIDlet-Install-Notify: You need to have a Kavprot Account
+MIDlet-Description: Kavprot Security System
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
